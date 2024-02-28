@@ -24,7 +24,7 @@ const Box3 = () => {
         initial="hidden"
         animate="visible"
       >
-        Hi 🖐 
+        Hi 🖐
       </motion.div>
     </div>
   );

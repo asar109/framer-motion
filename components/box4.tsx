@@ -1,21 +1,6 @@
 import { motion } from "framer-motion";
 
 const Box4 = () => {
-  const boxVariant = {
-    hidden: {
-      opacity: 0,
-      x: -100,
-    },
-    visible: {
-      opacity: 1,
-      x: 0,
-      transition: {
-        duration: 0.3,
-        type: "spring",
-      },
-    },
-  };
-
   return (
     <div className="h-full p-8 w-full bg-gray-200">
       <div className="flex justify-center gap-2 items-center">

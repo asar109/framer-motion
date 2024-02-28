@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import React, { useState } from "react";
 
 const Box2 = () => {
   return (
