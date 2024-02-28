@@ -8,8 +8,8 @@ const inter = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Next Auth starter",
-  description: "A complete Next.js authentication system using NextAuth.js (Auth.js)",
+  title: "Framer Motion Next.js Example",
+  description: "Framer motion example with Next.js",
 };
 
 export default function RootLayout({
